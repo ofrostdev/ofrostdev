@@ -10,7 +10,7 @@ Além disso, sou fundador da **Frost Plugins**, uma store onde disponibilizo e v
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Ambientes
 
 <img 
     align="left" 
