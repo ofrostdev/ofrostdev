@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👨‍💻 Luiz - Frost
 
-<!--
-**ofrostdev/ofrostdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-End | Criador de Plugins Bukkit API`**
 
-Here are some ideas to get you started:
+Olá! Me chamo **Luiz (Frost)**, tenho **16 anos** e sou natural de **São Paulo**. Sou desenvolvedor Java, focado na criação de **plugins para Bukkit API**. Idealizo e desenvolvo **sistemas únicos**, trazendo soluções personalizadas para servidores de Minecraft.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além disso, sou fundador da **Frost Plugins**, uma store onde disponibilizo e vendo o **source dos meus projetos**.  
+
+💬 **Contato:** Discord - `ofrostdev_`  
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<br/>
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 20px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ofrostdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Linguagens" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofrostdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+---
+
+### 💡 Sobre meus projetos
+
+- 🎮 **Plugins**: Sistemas exclusivos para servidores de Minecraft.  
+- 🛒 **Frost Plugins**: Store própria com **source code disponível** para compra.  
+- 🛠️ **Diferencial**: Plugins inovadores nunca visto antes, com source disponivel.  
+
+---
+
+### 🌐 Me acompanhe
+
+- [Discord](https://discord.com/users/ofrostdev_)  
+- [GitHub](https://github.com/ofrostdev)  
