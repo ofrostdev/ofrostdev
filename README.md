@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End | Criador de Plugins Bukkit API`**
 
-Olá! Me chamo **Luiz (Frost)**, tenho **16 anos** e sou natural de **São Paulo**. Sou desenvolvedor Java, focado na criação de **plugins para Bukkit API**. Idealizo e desenvolvo **sistemas únicos**, trazendo soluções personalizadas para servidores de Minecraft.  
+Olá! Me chamo **Luiz (Frost)**, tenho **16 anos** e sou natural de **São Paulo**. Sou tatuador e desenvolvedor Java/C++, porém estou focado na criação de **plugins para Bukkit API**. Idealizo e desenvolvo **sistemas únicos**, trazendo soluções personalizadas para servidores de Minecraft.  
 
 Além disso, sou fundador da **Frost Plugins**, uma store onde disponibilizo e vendo o **source dos meus projetos**.  
 
