@@ -1,6 +1,6 @@
 # 💻​ Luiz - Frost
 
-**`Desenvolvedor Back-End | Criador de Plugins Bukkit API`**
+**`Desenvolvedor Back-End | Bukkit API`**
 
 Olá! Me chamo **Luiz (Frost)**, tenho **16 anos** e sou natural de **São Paulo**. Sou tatuador e desenvolvedor Java/C++, porém estou focado na criação de **plugins para Bukkit API**. Idealizo e desenvolvo **sistemas únicos**, trazendo soluções personalizadas para servidores de Minecraft.  
 
@@ -68,9 +68,9 @@ Além disso, sou fundador da **Frost Plugins**, uma store onde disponibilizo e v
 
 ### 💡 Sobre meus projetos
 
-- 🎮 **Plugins**: Sistemas exclusivos para servidores de Minecraft.  
-- 🛒 **Frost Plugins**: Store própria com **source code disponível** para compra.  
-- 🛠️ **Diferencial**: Plugins inovadores nunca visto antes, com source disponivel.  
+- **Plugins**: Sistemas exclusivos para servidores de Minecraft.  
+- **Frost Plugins**: Store própria com **source code disponível** para compra.  
+- **Diferencial**: Plugins inovadores nunca visto antes, com source disponivel.  
 
 ---
 
