@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End | Bukkit API`**
 
-Olá! Me chamo **Luiz (Frost)**, tenho **16 anos** e sou natural de **São Paulo**. Sou tatuador e desenvolvedor Java/C++, porém estou focado na criação de **plugins para Bukkit API**. Idealizo e desenvolvo **sistemas únicos**, trazendo soluções personalizadas para servidores de Minecraft.  
+Olá! Me chamo **Luiz (Frost)**, tenho **16 anos** e sou natural de **São Paulo**. Sou tatuador e desenvolvedor Java (Kotlin)/C++, porém estou focado na criação de **plugins para Bukkit API**. Idealizo e desenvolvo **sistemas únicos**, trazendo soluções personalizadas para servidores de Minecraft.  
 
 Além disso, sou fundador da **Frost Plugins**, uma store onde disponibilizo e vendo o **source dos meus projetos**.  
 
@@ -19,6 +19,15 @@ Além disso, sou fundador da **Frost Plugins**, uma store onde disponibilizo e v
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Kotlin" 
+    title="Java"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 
 <img 
