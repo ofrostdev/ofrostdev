@@ -24,7 +24,7 @@ Além disso, sou fundador da **Frost Plugins**, uma store onde disponibilizo e v
 <img 
     align="left" 
     alt="Kotlin" 
-    title="Java"
+    title="Kotlin"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
